@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Record Keeper App</string>
+    <string name="running">running</string>
+    <string name="cycling">cycling</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_marathon">Marathon</string>
+    <string name="half_marathon">Half Marathon</string>
+    <string name="running_image">Running Image</string>
+    <string name="running_text">RUNNING</string>
+    <string name="_5km_text">5km</string>
+    <string name="_10km_text">10km</string>
+    <string name="reset_running_records">Reset Running Records</string>
+    <string name="reset_cycling_records">Reset Cycling Records</string>
+    <string name="reset_all_records">Reset All Records</string>
+</resources>
